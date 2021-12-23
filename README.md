@@ -56,7 +56,7 @@ Magento 2 Multi Blog is the multifunctional extension that is easily installed a
 All of the Magento 2 Multi Blog extension configurations are completely the same as for the [Magento 2 Blog Configuration](https://magefan.com/blog/magento-2-blog-extension-documentation).
 
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Login As Customer Extension](https://magefan.com/login-as-customer-magento-2-extension)
