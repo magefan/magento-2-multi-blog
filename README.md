@@ -11,6 +11,45 @@ Magento 2 Blog extension is a great marketing tool you can use to promote your p
 
 <a href="https://magefan.com/magento-2-multi-blog-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
+## Editions & Pricing
+  
+<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/magento-2-blog-pricing.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/blog-pricing-magento.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+ <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/pricing-blog-magento.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+ <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/pricing-blog-magento-2.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/blog-extension-pricing-magefan.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/magefan-blog-pricing-for-magento.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
+          <img
+            src="https://cm.magefan.com/wysiwyg/products/magefan-blog-extension-pricing.png"
+            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
+        </a>
+
+
 ## Benefits
 
 * Boosted Traffic
@@ -25,28 +64,28 @@ Magento 2 Blog extension is a great marketing tool you can use to promote your p
 News and Events, Theme-Related Blog and Product Comparison Reviews. No limits to your imagination. You can start managing 2 different blogs on whatever topics you want as long as they help you to drive more customers to your store and interest them enough to stay for long.
 
 <p align="center">
-  <img width="900" height="500" src="https://cm.magefan.com/catalog/product/m/a/magento-2-multi-blog-storefront_1.png">
+  <img width="900" height="500" src="https://cm.magefan.com/catalog/magento-2-multi-blog.png">
 </p>
 
 ### Functionality x2
 If you’re already managing a blog on your Magento store you must have heard about [Magento 2 Blog](https://magefan.com/magento2-blog-extension) extension. Multi Blog has all of the same functionality multiplied in 2 that means both of your blogs will have the same settings and the same options. That allows you to manage 2 blogs conveniently and easily.
 
 <p align="center">
-  <img width="900" height="500" src="https://cm.magefan.com/catalog/product/m/a/magento-2-multi-blog-configuration.png">
+  <img width="900" height="500" src="https://cm.magefan.com/catalog/magento-2-multi-blog-installation.png">
 </p>
 
 ### Double Benefit
 One blog is already a great contribution to your store marketing strategy since it allows you to drive more traffic to your website, improve Google positions and boost SEO. Managing 2 blogs all of the benefits you get from having one blog doubles since you can attract even more attention, provide even more content and be even more useful to your customers.
 
 <p align="center">
-  <img width="900" height="500" src="https://cm.magefan.com/catalog/product/m/a/magento-2-multi-blog-demo_1.png">
+  <img width="900" height="500" src="https://cm.magefan.com/catalog/multi-blog-in-magento-2.png">
 </p>
 
 ### One Time Installation
-Magento 2 Multi Blog is the multifunctional extension that is easily installed and configured. You don’t need to install 2 blog extensions separately or setup an additional module to your current one. Just install multi blog one time and benefit from it further on.
+Magento 2 Multi Blog is a multifunctional extension that is easily installed and configured. You don’t need to install 2 blog extensions separately or setup an additional module to your current one. Just install multi blog one time and benefit from it further on.
 
 <p align="center">
-  <img width="900" height="500" src="https://cm.magefan.com/catalog/product/m/a/magento-2-second-blog-menu.png">
+  <img width="900" height="500" src="https://cm.magefan.com/catalog/magento-2-multi-blog-configuration.png">
 </p>
 
 ## Documentation
