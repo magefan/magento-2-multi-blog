@@ -9,7 +9,7 @@
 Magento 2 Blog extension is a great marketing tool you can use to promote your products, drive more traffic to your Magento 2 store and improve SEO. Just imagine what your could achieve having 2 different blogs. [Multi Blog](https://magefan.com/magento-2-multi-blog-extension) is the extension for Magento 2 that allows you to manage 2 separate blogs on your Magento instance attracting even more attention to your Magento 2 store.
 
 
-<a href="https://magefan.com/magento-2-multi-blog-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-multi-blog-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-multi-blog-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Editions & Pricing
   
