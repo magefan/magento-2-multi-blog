@@ -1,4 +1,4 @@
-# Magento 2 Multi Blog Extension
+# [Magento 2 Multi Blog](https://magefan.com/magento-2-multi-blog-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,8 +6,7 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/p/h/photo_2020-08-06_13-49-44.webp">
 
-Magento 2 Blog extension is a great marketing tool you can use to promote your products, drive more traffic to your Magento 2 store and improve SEO. Just imagine what your could achieve having 2 different blogs. [Multi Blog](https://magefan.com/magento-2-multi-blog-extension) is the extension for Magento 2 that allows you to manage 2 separate blogs on your Magento instance attracting even more attention to your Magento 2 store.
-
+[Magento 2 Multi Blog](https://magefan.com/magento-2-multi-blog-extension) is the extension for Magento 2 that allows you to manage 2 separate blogs on your Magento instance attracting even more attention to your Magento 2 store. Magento 2 Blog extension is a great marketing tool you can use to promote your products, drive more traffic to your Magento 2 store and improve SEO. Just imagine what your could achieve having 2 different blogs. 
 
 <a href="https://magefan.com/magento-2-multi-blog-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-multi-blog-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
@@ -15,40 +14,12 @@ Magento 2 Blog extension is a great marketing tool you can use to promote your p
   
 <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
           <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-2-blog-pricing.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
-<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/blog-pricing-magento.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
- <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/pricing-blog-magento.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
- <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/pricing-blog-magento-2.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
-<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/blog-extension-pricing-magefan.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
-<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/magefan-blog-pricing-for-magento.png"
-            alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
-        </a>
-<a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/magefan-blog-extension-pricing.png"
+            src="https://cm.magefan.com/wysiwyg/products/magento-2-multi-blog-pricing.png"
             alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
         </a>
 
+ ## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
@@ -56,7 +27,6 @@ Magento 2 Blog extension is a great marketing tool you can use to promote your p
 * Improved Customer Experience
 * Increased Conversion Rates
 * Improved SEO Ranking
-
 
 ## Features
 ### 2 Fully-Functioning Separate Blogs
@@ -146,6 +116,12 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-multi-blog/issues).
+
 
 ## Need More Features?
 Please contact us to get a quote
