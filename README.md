@@ -14,7 +14,7 @@ Compatibility: Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
   
 <a href="https://magefan.com/magento-2-multi-blog-extension/pricing">
           <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-2-multi-blog-pricing.png"
+            src="https://cm.magefan.com/wysiwyg/products/multi-blog-pricing-plans.png"
             alt="Plans and Pricing for Magento 2 Multi Blog Extension" />
         </a>
 
